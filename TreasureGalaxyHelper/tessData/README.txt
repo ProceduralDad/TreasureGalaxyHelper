@@ -1,0 +1,1 @@
+tesserect training data needs to be put here. I didn't put it here because it is over a gig.
