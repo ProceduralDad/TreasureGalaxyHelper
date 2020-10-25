@@ -1,6 +1,8 @@
 # TreasureGalaxyHelper
 This is a tool for Speedrunners of the game Treasure Galaxy!
 
+![Alt Text](https://i.imgur.com/dMNEiDq.gif)
+
 # To Download
 Click the "redist" folder and download all contents- it's one exe, one folder named "Images", and one Image inside that folder. Keep these files together and doubleclick the .exe to run the program. This is software for Windows and you will need to be running .NET Framework. You can get it from ninite.com if you lack it.
 
